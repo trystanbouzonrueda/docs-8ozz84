@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-wjgfla.radarsatu88.sbs/sitemap.xml
